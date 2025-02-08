@@ -1,0 +1,12 @@
+{
+  "name": "blogify",
+  "version": "1.0.0",
+  "description": "this is a blogging website",
+  "license": "ISC",
+  "author": "praveen",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
